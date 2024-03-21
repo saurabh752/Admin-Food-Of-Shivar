@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "73750378893",
+    "project_id": "admin-food-of-shivar-dc434",
+    "storage_bucket": "admin-food-of-shivar-dc434.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73750378893:android:dad5813488294bd67625c4",
+        "android_client_info": {
+          "package_name": "com.org.adminfoodofshivar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrLUzVsSxU5c4-apHd53g8-T5Bdlq_yGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
